@@ -1,5 +1,9 @@
 # Bash Alias Manager
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-Enabled-5A67D8?style=flat&logo=anthropic&logoColor=white)
+[![Claude Code Projects](https://img.shields.io/badge/Claude%20Code-Projects%20Index-4A90E2?style=flat&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+[![Master Index](https://img.shields.io/badge/GitHub-Master%20Index-181717?style=flat&logo=github)](https://github.com/danielrosehill/Github-Master-Index)
+
 A Claude Code-powered tool for managing bash aliases systematically.
 
 ## Purpose
